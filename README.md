@@ -1,1 +1,1 @@
-# Proyecto-An-lisis-del-desempe-o-financiero-con-SQL---Resumen-ejecutivo-
+Análisis Financiero de Rentabilidad y ROI por País/Territorio | SQL + Google Sheets
